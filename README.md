@@ -3,7 +3,7 @@
 # 🏥 Insurance Cost Prediction using Regularized Regression
 
 ## 📌 Project Overview
-This project explores three regularized regression algorithms—**Ridge (L2)**, **Lasso (L1)**, and **Elastic Net**—to predict medical insurance expenses using the Medical Cost Personal Dataset from Kaggle.
+This project explores three regularized regression algorithms—**Ridge (L2)**, **Lasso (L1)**, and **Elastic Net**,to predict medical insurance expenses using the Medical Cost Personal Dataset from Kaggle.
 
 The project was completed as part of a Machine Learning mini project to understand how regularization affects regression models and compare their performance.
 
